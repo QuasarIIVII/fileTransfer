@@ -1,0 +1,3 @@
+/home/enyephy/A/_Project/fileTransfer/build/CMakeFiles/a.dir
+/home/enyephy/A/_Project/fileTransfer/build/CMakeFiles/edit_cache.dir
+/home/enyephy/A/_Project/fileTransfer/build/CMakeFiles/rebuild_cache.dir

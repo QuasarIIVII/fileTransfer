@@ -1,0 +1,1 @@
+aarch64-linux-gnu-g++ -march=armv8-a -rdynamic CMakeFiles/a.dir/a.o -o a   -L/usr/aarch64-linux-gnu/lib64  -Wl,-rpath,/usr/aarch64-linux-gnu/lib64 -lstdc++ -lpthread 
